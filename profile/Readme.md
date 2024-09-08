@@ -5,6 +5,7 @@
 
 ## 서버 아키텍처
 <img src =https://github.com/user-attachments/assets/32df0f3e-cf37-4a67-ad1c-2fcfe3e86338 height=600 width=800/>
+
 ## 팀원 및 역할
 - [Ilmin.cho(조일민)](https://github.com/IlMinCho)
 - [Milo.Kim(김민제)](https://github.com/alswp006)
