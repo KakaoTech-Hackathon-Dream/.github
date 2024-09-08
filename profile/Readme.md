@@ -7,7 +7,7 @@
 <img src = https://github.com/user-attachments/assets/0c8eebb9-7878-4be1-83fb-634cb3714b7d height=70% width=70%/>
 
 ## 데이터 흐름도 (이미지 / 스토리 생성)
-![이미지+스토리 생성 데이터 흐름도](https://github.com/user-attachments/assets/aa8b91ea-45e9-49f0-bb69-95fe91d61013)
+<img src = https://github.com/user-attachments/assets/aa8b91ea-45e9-49f0-bb69-95fe91d61013 height=70% width=70%/>
 
 ## 팀원 및 역할
 - [Ilmin.cho(조일민)](https://github.com/IlMinCho)
