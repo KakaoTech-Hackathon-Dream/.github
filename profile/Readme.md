@@ -18,11 +18,4 @@
 - [Peter.Sim(심상훈)](https://github.com/sanghoon416)
 
 ## 시연 영상
-
-<div style="display: flex; overflow-x: auto;">
-  <img src="https://github.com/user-attachments/assets/dbd55fd2-5fdc-47ac-ab0d-e34207b9e4a2" style="width: 50%; height: auto;"  />
-  <img src="https://github.com/user-attachments/assets/9b3a1ff2-69c5-43ae-9bc1-9528fe89ca0c" style="width: 50%; height: auto;"  />
-  <img src="https://github.com/user-attachments/assets/1f362549-2404-4429-be1a-30db5467f41e" style="width: 50%; height: auto;"  />
-</div>
-
 🎥 [youtube](https://www.youtube.com/watch?v=osfrC2cH62U&feature=youtu.be)
