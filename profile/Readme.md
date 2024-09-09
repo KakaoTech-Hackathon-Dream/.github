@@ -20,9 +20,9 @@
 ## 시연 영상
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dbd55fd2-5fdc-47ac-ab0d-e34207b9e4a2" />
-  <img src="https://github.com/user-attachments/assets/9b3a1ff2-69c5-43ae-9bc1-9528fe89ca0c" />
-  <img src="https://github.com/user-attachments/assets/1f362549-2404-4429-be1a-30db5467f41e" />
+  <img src="https://github.com/user-attachments/assets/dbd55fd2-5fdc-47ac-ab0d-e34207b9e4a2" height = 50% width = 50% />
+  <img src="https://github.com/user-attachments/assets/9b3a1ff2-69c5-43ae-9bc1-9528fe89ca0c" height = 50% width = 50% />
+  <img src="https://github.com/user-attachments/assets/1f362549-2404-4429-be1a-30db5467f41e" height = 50% width = 50% />
 </p>
 
 🎥 [youtube](https://www.youtube.com/watch?v=osfrC2cH62U&feature=youtu.be)
